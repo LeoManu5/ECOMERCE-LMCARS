@@ -1,4 +1,3 @@
-// src/components/AddItemButton.js
 import React from 'react';
 
 const AddItemButton = () => {

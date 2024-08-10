@@ -1,4 +1,3 @@
-// src/mockData.js
 export const products = [
     {
       id: 1,

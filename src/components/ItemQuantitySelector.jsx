@@ -1,4 +1,3 @@
-// src/components/ItemQuantitySelector.js
 import React, { useState } from 'react';
 
 const ItemQuantitySelector = () => {

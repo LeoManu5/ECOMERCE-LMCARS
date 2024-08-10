@@ -1,4 +1,3 @@
-// src/context/notificationcontext.js
 import React, { createContext, useState, useContext } from 'react';
 
 const NotificationContext = createContext();
