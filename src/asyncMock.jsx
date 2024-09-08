@@ -5,7 +5,7 @@ const products = [
     category: "seguridad",
     description: "Sistema de alarmas para seguridad vehicular",
     price: 15000,
-    image: "url-to-alarmas-image",
+    image: "https://http2.mlstatic.com/D_NQ_NP_966761-MLA44571772479_012021-O.webp",
   },
   {
     id: 2,
@@ -13,7 +13,7 @@ const products = [
     category: "confort",
     description: "Levanta vidrios eléctricos para mayor comodidad",
     price: 12000,
-    image: "url-to-levanta-vidrios-image",
+    image: "https://http2.mlstatic.com/D_NQ_NP_904101-MLA42092146675_062020-O.webp",
   },
   {
     id: 3,
@@ -21,7 +21,7 @@ const products = [
     category: "estética",
     description: "Vidrios polarizados para protección y estilo",
     price: 8000,
-    image: "url-to-polarizados-image",
+    image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSrcgb7K6qggsbTXqejCkYDvefcXbxWyNZjVg&s",
   },
   {
     id: 4,
@@ -29,7 +29,7 @@ const products = [
     category: "seguridad",
     description: "Llaves codificadas para protección adicional",
     price: 5000,
-    image: "url-to-llaves-codificadas-image",
+    image: "https://www.clarin.com/2023/04/04/HftxEscfs_1256x620__1.jpg",
   },
   {
     id: 5,

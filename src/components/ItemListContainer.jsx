@@ -1,7 +1,10 @@
 import React, { useEffect, useState } from 'react';
 import { useParams } from 'react-router-dom';
 import ItemList from './ItemList';
-import { getProductsByCategory } from '../asyncMock';
+import { db } from '../services/firebase';
+//import { getProductsByCategory } from '../asyncMock';
+
+
 
 const ItemListContainer = ({ greeting }) => {
   const [products, setProducts] = useState([]);
