@@ -2,6 +2,9 @@ import React, { useEffect, useState } from 'react';
 import { useParams } from 'react-router-dom';
 import ItemList from './ItemList';
 import { db } from '../services/firebase';
+import { collection, getDocs, query, where } from 'firebase/firestore';
+
+
 //import { getProductsByCategory } from '../asyncMock';
 
 
